@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944670145422",
+    "project_id": "loginandsignup-f58eb",
+    "storage_bucket": "loginandsignup-f58eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944670145422:android:b3d3a9ecd1e434067002df",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA05zYiSSsNdgWi2MaNfOXSaaZ_f0brR8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
